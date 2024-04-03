@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rizky.wazza@gmail.com**
 
-- 📄 Know about my experiences ([my CV](https://drive.google.com/file/d/1xvN_xZBAsSA9TmmqYqnIcCT5_ZNFZaKE/view?usp=sharing))
+- 📄 Know about my experiences ([Click me](https://rizkyalbiruni.github.io/portfolio/))
 
 - 🎓 I graduated from **[Le Wagon](https://lewagon.com/graduates)**
 
