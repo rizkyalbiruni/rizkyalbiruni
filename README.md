@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizky</h1>
-<h3 align="center">A passionate Ruby full stack developer</h3>
+<h3 align="center">A passionate Full stack Ruby developer</h3>
 
 - 💬 Ask me about **Ruby, Rails**
 
